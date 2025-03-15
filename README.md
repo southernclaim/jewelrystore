@@ -29,7 +29,7 @@ jewelrystore
 
 
 ## 🌐 Website
-#### [Website](https://jewelrystore.emperror.repl.co/)
+#### [Website](https://usejewelry.netlify.app)
 
 ## 📖 Wiki:
 #### [Wiki](https://github.com/southernclaim/jewelrystore/wiki)
