@@ -51,7 +51,7 @@ If you want to participate in this project,  please contact the author on Discor
 ## 📝 License
 
 Copyright © 2025 [Iago Dórea](https://github.com/southernclaim).<br />
-This project is [MIT](https://github.com/southernclaim/jewelrystore/blob/main/LICENSE) licensed.
+This project is [GNU](https://github.com/southernclaim/jewelrystore/blob/main/LICENSE) licensed.
 
 
 ## 📰 News
