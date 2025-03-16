@@ -31,8 +31,6 @@ jewelrystore
 ## 🌐 Website
 #### [Website](https://usejewelry.netlify.app)
 
-## 📖 Wiki:
-#### [Wiki](https://github.com/southernclaim/jewelrystore/wiki)
 
 ## 👤 Authors
 
