@@ -53,7 +53,7 @@ This project is [GNU](https://github.com/southernclaim/jewelrystore/blob/main/LI
 
 
 ## 📰 News
-![Screenshot from 2022-04-08 12-00-22](https://user-images.githubusercontent.com/97253814/162481412-cede45dd-0b4f-4b38-956c-6df6841ee8ba.png)
+![Screenshot from 2022-04-08 12-00-22]([https://user-images.githubusercontent.com/97253814/162481412-cede45dd-0b4f-4b38-956c-6df6841ee8ba.png](https://raw.githubusercontent.com/southernclaim/jewelrystore/refs/heads/main/screenshots/imagem_2025-03-15_210109576.png))
 
 
 ***
